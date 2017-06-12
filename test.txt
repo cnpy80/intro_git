@@ -2,3 +2,9 @@ Git Test
 Git change test
 Git add
 Git  commit
+
+Gitの練習をする
+基本的なワークフローを学びます
+Git add
+Git commit
+Git rm
