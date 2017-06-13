@@ -9,3 +9,4 @@ Git add
 Git commit
 Git rm
 Git status
+Git diff
